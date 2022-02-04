@@ -269,5 +269,5 @@ const MyComponent = {
 // also works if called on a composable
 function useComponentId() {
   return getCurrentInstance().uid
-}
+} 
 ```
